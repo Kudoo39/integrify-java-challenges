@@ -1,7 +1,3 @@
-For this assignment you should do the followings:
-- Solve one or both of the coding challenges
-- Build a plain Class/es object for either Library or E-commerce system (just a plain Java Class/es without server/framework or whatever)
-
 ## Coding challenges
 
 ### Create a simple calculator program that performs addition, subtraction, multiplication, and division.
