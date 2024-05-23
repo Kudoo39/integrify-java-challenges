@@ -14,6 +14,9 @@ The program should:
 - Basic arithmetic operators (+, -, *, /)
 - System.out.println() to display output
 
+### Output
+![Output](src/assets/calculator.png)
+
 
 ### Create a number guessing game program that generates a random number between 1 and 100 and prompts the user to guess the number.
 
@@ -32,4 +35,6 @@ The program should:
 - if statements or a switch statement to provide feedback on the user's guess
 - System.out.println() to display output
 
+### Output
+![Output](src/assets/guess.png)
 
